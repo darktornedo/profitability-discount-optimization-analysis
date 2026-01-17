@@ -77,7 +77,7 @@ Imported the final dataset into **Power BI** and built a **3-page interactive da
 - Margin distribution analysis
 
 📷 *Screenshot:*
-![Profitability Overview](screenshots/profitability_overview.png)
+![Profitability Overview](pofitability_overview.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ Imported the final dataset into **Power BI** and built a **3-page interactive da
 - Category-level discount effectiveness
 
 📷 *Screenshot:*
-![Discount Impact Analysis](screenshots/discount_impact_analysis.png)
+![Discount Impact Analysis](discount_impact_analysis.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ Imported the final dataset into **Power BI** and built a **3-page interactive da
 - Segment-wise and region-wise profitability
 
 📷 *Screenshot:*
-![Profit Concentration & Regional Performance](screenshots/profit_concentration_regional.png)
+![Profit Concentration & Regional Performance](profit_concentration_regional.jpg)
 
 ---
 
